@@ -3,7 +3,7 @@
 This project analyzes employee attrition using the publicly available **IBM HR Analytics** dataset from Kaggle.   It was developed as part of a Data Science internship to explore key factors affecting employee retention.
 
 👉 **View the interactive dashboard here:**  
-[🔗 Tableau Public Link](https://public.tableau.com/views/IBM-HR-Analytics/IBM-HR-Analytics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[🔗 Tableau Public Link](https://public.tableau.com/shared/S9MKG58QT?:display_count=n&:origin=viz_share_link)
 
 🧠 Tools & Technologies
 - Tableau
